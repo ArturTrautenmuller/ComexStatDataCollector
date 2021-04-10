@@ -1,0 +1,8 @@
+C:\TERZ\Comex Azure\Captura\Script\ComexStatCapture\ComexStatCapture\bin\Debug\netcoreapp2.1\ComexStatCapture.deps.json
+C:\TERZ\Comex Azure\Captura\Script\ComexStatCapture\ComexStatCapture\bin\Debug\netcoreapp2.1\ComexStatCapture.runtimeconfig.json
+C:\TERZ\Comex Azure\Captura\Script\ComexStatCapture\ComexStatCapture\bin\Debug\netcoreapp2.1\ComexStatCapture.runtimeconfig.dev.json
+C:\TERZ\Comex Azure\Captura\Script\ComexStatCapture\ComexStatCapture\bin\Debug\netcoreapp2.1\ComexStatCapture.dll
+C:\TERZ\Comex Azure\Captura\Script\ComexStatCapture\ComexStatCapture\obj\Debug\netcoreapp2.1\ComexStatCapture.csprojAssemblyReference.cache
+C:\TERZ\Comex Azure\Captura\Script\ComexStatCapture\ComexStatCapture\obj\Debug\netcoreapp2.1\ComexStatCapture.csproj.CoreCompileInputs.cache
+C:\TERZ\Comex Azure\Captura\Script\ComexStatCapture\ComexStatCapture\obj\Debug\netcoreapp2.1\ComexStatCapture.AssemblyInfoInputs.cache
+C:\TERZ\Comex Azure\Captura\Script\ComexStatCapture\ComexStatCapture\obj\Debug\netcoreapp2.1\ComexStatCapture.AssemblyInfo.cs
